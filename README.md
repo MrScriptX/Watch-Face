@@ -23,5 +23,3 @@ Here are some ways you can contribute:
 4. **Bug Fixes and Enhancements**: If you come across any issues or bugs in existing resources, or if you have ideas for enhancing them, feel free to submit pull requests with your fixes or improvements.
 
 To contribute, simply fork this repository, make your changes, and submit a pull request. Your contributions will be reviewed and appreciated—unlike our requests for help from Google.
-
-Let's band together and show Google that we can thrive without their support!
