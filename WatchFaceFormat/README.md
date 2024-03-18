@@ -11,10 +11,10 @@ There are currently 2 ways of building a watch face. Either using the batch file
 You will need a bunch of tools to create a Watch Face using this format.
 
 1. First you will need to install Android SDK 33 (min version). It can be easily found in the SDK Manager of Android Studio.
-2. Download AAPT2 (a jar file) and extract it in a folder where you store android tools.
-3. Download Bundletool, put it in the same folder. You don't need to extract it (yeah, Google consistency)
-4. Download DWF Validator, and you guessed it, in the same folder.
-5. (optional) You can install xmake if you want to make your life easier.
+2. Download [AAPT2](https://maven.google.com/web/index.html?q=aapt#com.android.tools.build:aapt2) (a jar file) and extract it in a folder where you store android tools.
+3. Download [Bundletool](https://maven.google.com/web/index.html?q=bundle#com.android.tools.build:bundletool), put it in the same folder. You don't need to extract it (yeah, Google consistency)
+4. Download [DWF Validator](https://github.com/google/watchface), and you guessed it, in the same folder.
+5. (optional) You can install [xmake](https://xmake.io/#/guide/installation) if you want to make your life easier.
 
 Now, there are a bunch of environments variables to setup. 
 
